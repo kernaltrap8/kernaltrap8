@@ -9,11 +9,11 @@ thats it! how about you stay awhile and take a look at my (crap) software!<br>
 <br>
 ![](https://komarev.com/ghpvc/?username=kernaltrap8&color=ff69b4)<br>
 <a href="https://github.com/kernaltrap8/WoRmod">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesIsWack&&hide=cmake&layout=compact&theme=dark" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kernaltrap8&hide=cmake&layout=compact&theme=dark" alt="Top Languages" />
 </a>
 <br>
 <a href="https://github.com/kernaltrap8/WoRmod">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JamesIsWack&hide=prs&show_icons=true&line_height=33&count_private=true&theme=dark" alt="JamesIsWack's GitHub Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kernaltrap8&hide=prs&show_icons=true&line_height=33&count_private=true&theme=dark" alt="JamesIsWack's GitHub Stats"/>
 </a>
 
 
