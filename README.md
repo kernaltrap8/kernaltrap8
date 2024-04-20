@@ -1,4 +1,4 @@
-hello! my name is kernaltrap and welcome to my github profile. im a software developer, Guitar Hero modder, and reverse engineer. my main focuses are decompiling/modding Guitar Hero: Warriors of Rock, Rock Revolution, and the PLAYSTATON 3's LV2 kernel.<br>
+hello! my name is kernaltrap and welcome to my github profile. im a software developer, Guitar Hero modder, and reverse engineer. i write stuff in C usually.<br>
 Socials:<br>
 Twitter & Youtube - `@kernaltrap`<br>
 Discord - `duck8330`
