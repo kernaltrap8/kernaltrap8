@@ -3,6 +3,11 @@ Socials:<br>
 Twitter & Youtube - `@kernaltrap`<br>
 Discord - `duck8330`
 
+Gentoo packages I maintain:
+  - `app-misc/tinyfetch` (guru)
+  - `app-misc/proctl` (guru)
+  - (hopefully) Proxy maintainer for `media-sound/spotify` [2dd8a34](https://github.com/kernaltrap8/gentoo/commit/2dd8a34b21a17547692d00b45cd284009e7652d3)
+
 if you couldn't already tell, i like ducks.
 
 thats it! how about you stay awhile and take a look at my (crap) software!<br>
