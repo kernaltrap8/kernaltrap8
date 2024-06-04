@@ -4,6 +4,7 @@ Twitter & Youtube - `@kernaltrap`<br>
 Discord - `duck8330`
 
 Gentoo packages I maintain:
+  - `net-proxy/ngrok-bin` (guru)
   - `app-misc/tinyfetch` (guru)
   - `app-misc/proctl` (guru)
   - (hopefully) Proxy maintainer for `media-sound/spotify` [2dd8a34](https://github.com/kernaltrap8/gentoo/commit/2dd8a34b21a17547692d00b45cd284009e7652d3)
