@@ -1,7 +1,7 @@
 hello! my name is kernaltrap and welcome to my github profile. im a software developer, Guitar Hero modder, and reverse engineer. i write stuff in C usually. currently learning Assembly!<br>
 Socials:<br>
 Twitter & Youtube - `@kernaltrap`<br>
-Discord - `duck8330`
+Discord - `xorshift32`
 
 Gentoo packages I maintain:
   - `net-proxy/ngrok-bin` (guru)
