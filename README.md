@@ -2,16 +2,8 @@ hello! my name is kernaltrap and welcome to my github profile. im a software dev
 Socials:<br>
 Twitter & Youtube - `@kernaltrap`<br>
 Discord - `xorshift32`
-
-Gentoo packages I maintain:
-  - `net-proxy/ngrok-bin` (guru)
-  - `app-misc/tinyfetch` (guru)
-  - `app-misc/proctl` (guru)
-  - `app-misc/badvideo` (guru)
-  - Proxy maintainer for `media-sound/spotify`
-
-thats it! how about you stay awhile and take a look at my (crap) software!<br>
 <br>
+
 ![](https://komarev.com/ghpvc/?username=kernaltrap8&color=ff69b4)<br>
 <a href="https://github.com/kernaltrap8/WoR-Plus">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kernaltrap8&hide=cmake&layout=compact&theme=dark" alt="Top Languages" />
