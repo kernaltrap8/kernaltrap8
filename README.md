@@ -1,4 +1,4 @@
-hello! my name is kernaltrap and welcome to my github profile. im a software developer, Guitar Hero modder, and reverse engineer. i write stuff in C/C++ usually. Currently working on my mod, WoR+.<br>
+hello! my name is kernaltrap and welcome to my github profile. im a software developer, Guitar Hero modder, and reverse engineer. i write stuff in C/C++ usually. Working on GH3DX.<br>
 Socials:<br>
 Twitter & Youtube - `@kernaltrap`<br>
 Discord - `xorshift32`
