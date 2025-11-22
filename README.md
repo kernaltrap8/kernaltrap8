@@ -1,3 +1,5 @@
+# NOTE
+I will soon be migrating to `git.h2.gay`, a self-hosted cGit instance that my friend runs. All personal repos will be migrated over there. More details to come.
 # badges!
 ![C](https://img.shields.io/badge/C-555555?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
