@@ -1,5 +1,5 @@
 # NOTE
-I will soon be migrating to `git.h2.gay`, a self-hosted cGit instance that my friend runs. All personal repos will be migrated over there. More details to come.<br>
+I have started migration to [Codeberg](https://codeberg.org/kernaltrap8). Please refer to this account for all of my projects. Thanks!<br>
 I have changed my email address. Previous commits signed-off by `kernaltrap@gmail.com` are now Unverified. My new signed-off by email is `kernaltrap@proton.me`.
 # badges!
 ![C](https://img.shields.io/badge/C-555555?style=flat&logo=c&logoColor=white)
